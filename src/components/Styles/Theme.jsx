@@ -1,0 +1,31 @@
+export const Colors = {
+    white:"#ffffff",
+    lightWhite:"#fafafa", 
+    creamWhite: "#F5F6F6", 
+    teal:"#4cb1a1",
+    blue:"#0D4CBE",
+    green:"#19AC71",
+    red:"#E33946",
+    pink:"#ee9bb5",
+    lightGrey:"#E4E4E4",
+    mediumGrey:"#cccccc",
+    darkGrey:"#666666",
+    black:"#000000",
+};
+
+export const Theme = {
+    app: Colors.white,
+    body: Colors.lightWhite,
+    root: Colors.white,
+    container: Colors.lightWhite,
+    scrollThumb: Colors.teal,
+    scrollTrack: Colors.lightGrey,
+    shadow: Colors.darkGrey,
+    disabled: Colors.mediumGrey,
+    primary: Colors.teal,
+    secondary:Colors.pink,
+    success:Colors.green,
+    error:Colors.red,
+    white: Colors.white,
+    black: Colors.black,
+};
