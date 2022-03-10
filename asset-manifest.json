@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/the-casa-kitchen-website/static/css/main.53137824.css",
+    "main.js": "/the-casa-kitchen-website/static/js/main.2480e276.js",
+    "static/media/15.jpg": "/the-casa-kitchen-website/static/media/15.a5a02165b58ad460e22f.jpg",
+    "static/media/6.jpg": "/the-casa-kitchen-website/static/media/6.0092b4117e6e4884aaa4.jpg",
+    "static/media/4.jpg": "/the-casa-kitchen-website/static/media/4.ecbab5d1554befa34960.jpg",
+    "static/media/8.jpg": "/the-casa-kitchen-website/static/media/8.88b1959247b23ea247c2.jpg",
+    "static/media/7.jpg": "/the-casa-kitchen-website/static/media/7.fd49feb8f6b999c4ef00.jpg",
+    "static/media/10.jpg": "/the-casa-kitchen-website/static/media/10.ea2cd552f9bf13b34592.jpg",
+    "static/media/3.jpg": "/the-casa-kitchen-website/static/media/3.ea860584f25d7500653a.jpg",
+    "static/media/13.jpg": "/the-casa-kitchen-website/static/media/13.ab07c43fa65472634235.jpg",
+    "static/media/5.jpg": "/the-casa-kitchen-website/static/media/5.258277b8b304d400429e.jpg",
+    "static/media/0.jpg": "/the-casa-kitchen-website/static/media/0.f60621238a52647fe5e3.jpg",
+    "static/media/11.jpg": "/the-casa-kitchen-website/static/media/11.8389454d212ebbb247c9.jpg",
+    "static/media/9.jpg": "/the-casa-kitchen-website/static/media/9.9500509bd21bbe41b905.jpg",
+    "static/media/12.jpg": "/the-casa-kitchen-website/static/media/12.d12a9880509fb0756b66.jpg",
+    "static/media/1.jpg": "/the-casa-kitchen-website/static/media/1.bfb3505ec24ce24b2d72.jpg",
+    "static/media/14.jpg": "/the-casa-kitchen-website/static/media/14.cf88c423f49ecf05ffa5.jpg",
+    "static/media/2.jpg": "/the-casa-kitchen-website/static/media/2.22b40f974f338a392edb.jpg",
+    "static/media/logo.png": "/the-casa-kitchen-website/static/media/logo.d80a3cc61f062b956fa1.png",
+    "index.html": "/the-casa-kitchen-website/index.html",
+    "main.53137824.css.map": "/the-casa-kitchen-website/static/css/main.53137824.css.map",
+    "main.2480e276.js.map": "/the-casa-kitchen-website/static/js/main.2480e276.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53137824.css",
+    "static/js/main.2480e276.js"
+  ]
+}
