@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-casa-kitchen-website/static/css/main.53137824.css",
-    "main.js": "/the-casa-kitchen-website/static/js/main.2480e276.js",
+    "main.js": "/the-casa-kitchen-website/static/js/main.6163643c.js",
     "static/media/15.jpg": "/the-casa-kitchen-website/static/media/15.a5a02165b58ad460e22f.jpg",
     "static/media/6.jpg": "/the-casa-kitchen-website/static/media/6.0092b4117e6e4884aaa4.jpg",
     "static/media/4.jpg": "/the-casa-kitchen-website/static/media/4.ecbab5d1554befa34960.jpg",
@@ -21,10 +21,10 @@
     "static/media/logo.png": "/the-casa-kitchen-website/static/media/logo.d80a3cc61f062b956fa1.png",
     "index.html": "/the-casa-kitchen-website/index.html",
     "main.53137824.css.map": "/the-casa-kitchen-website/static/css/main.53137824.css.map",
-    "main.2480e276.js.map": "/the-casa-kitchen-website/static/js/main.2480e276.js.map"
+    "main.6163643c.js.map": "/the-casa-kitchen-website/static/js/main.6163643c.js.map"
   },
   "entrypoints": [
     "static/css/main.53137824.css",
-    "static/js/main.2480e276.js"
+    "static/js/main.6163643c.js"
   ]
 }
