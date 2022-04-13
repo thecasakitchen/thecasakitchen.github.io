@@ -5,7 +5,7 @@ import Home from "../Home";
 import Menu from "../Menu";
 import Contact from "../Contact";
 
-import { BodyContainer, CircularButton, Drawer, DrawerClose, DrawerItem, MenuIcon, NavBar, NavBarItem, NavTitle, RootContainer, Thumbnail } from "../Styles";
+import { BodyContainer, CircularButton, Drawer, DrawerClose, DrawerItem, MenuIcon, NavBar, NavBarItem, NavTitle, Thumbnail } from "../Styles";
 import Logo from "./../../assets/images/logo.png";
 
 const Body = (props) => {
@@ -32,9 +32,9 @@ const Body = (props) => {
                     active={window.location.pathname==="/"}
                     onClick={()=>window.location="/"}
                 >
-                    Home
+                    Menu
                 </DrawerItem>
-                <DrawerItem 
+                {/* <DrawerItem 
                     active={window.location.pathname==="/menu"}
                     onClick={()=>window.location="/menu"}
                 >
@@ -45,12 +45,12 @@ const Body = (props) => {
                     onClick={()=>window.location="/contact"}
                 >
                     Contact
-                </DrawerItem>
+                </DrawerItem> */}
             </Drawer>
 
             <Router>
                 <Routes>
-                    <Route path="/" element={<Home/>} />
+                    <Route path="/" element={<Menu/>} />
                     <Route path="/menu" element={<Menu/>} />
                     <Route path="/contact" element={<Contact/>} />
                 </Routes>
