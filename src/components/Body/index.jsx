@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Helmet } from "react-helmet";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Home from "../Home";
@@ -13,6 +14,10 @@ const Body = (props) => {
 
     return (
         <BodyContainer>
+            <Helmet>
+                <title>The Casa Kitchen</title>
+            </Helmet>
+
             <NavBar>
                 <NavBarItem align="center">
                     <Thumbnail src={Logo} title="logo" alt="logo" /> 
