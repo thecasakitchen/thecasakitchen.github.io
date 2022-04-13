@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 
 import { NavSubBar, Container, FlexRow, FlexColumn, CircularButton, ArrowIcon, MenuImage, Theme } from "./../Styles";
-import {  ImageContainer, ButtonContainer } from "./style";
+import { ImageContainer, ButtonContainer } from "./style";
 
 import { MenuArray } from "../Utils";
 
